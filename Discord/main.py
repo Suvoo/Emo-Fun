@@ -53,5 +53,3 @@ with open('key.txt',encoding="utf-8") as file:
     f = file.read()
     
 bot.run(str(f))
-
-# bot.run('OTAzNjMzNTM2MzA3ODM0OTUw.YXv0Tw.nSVJDP7HzDZyJmW_W7IhtgIFXvs')

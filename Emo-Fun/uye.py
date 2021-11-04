@@ -20,7 +20,7 @@ import emoji
 
 #________________________________________________________
 
-sen = "HI i am suvodeep and i am noob big"
+sen = "HI i am suvodeep an"
 # words = sen.split(" ")
 
 # ans = ''
