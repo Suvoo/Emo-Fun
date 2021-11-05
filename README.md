@@ -9,7 +9,6 @@ Emo-Fun is a bot which emojifies the text you send it. It is easier to understan
 ```Hey ⏰this 🏅is 🧑🏼‍🌾to 👔show 🕵🏿my 👩🏿‍🤝‍👨🏾working!! ⏏️```
 
 Made this Fun and convinient feature available on Discord, Telegram, Reddit and Twitter as a Bot.
-
 ## Instructions
 
 Just type the word ```emo``` in front of the sentence you want to emojify. 
@@ -25,6 +24,15 @@ Just type the word ```emo``` in front of the sentence you want to emojify.
 
 #### Telegram
 <img src = "https://user-images.githubusercontent.com/52796258/140326293-80ee82ce-01aa-4919-b3e3-264cbfa24226.png" width = 500 />
+
+#### App
+<p float="left">
+<img src = "https://user-images.githubusercontent.com/60261112/140491321-e1c9402b-9f99-4b06-ab2a-3e8cf54f1147.jpeg" width =250 height = 600/>
+<img src = "https://user-images.githubusercontent.com/60261112/140490909-ff789723-3755-41f6-8558-345d55e74f3f.jpeg" width = 250 height =600/>
+</p>
+
+#### About The App
+The App has been built using Flutter that runs Python script locally using the Chaquopy plugin in flutter .
 
 ## Contributors
 
