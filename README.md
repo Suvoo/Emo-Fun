@@ -40,7 +40,7 @@ Special mention to [Abhigyan Singh](https://github.com/Blazikengr8) and [Naman J
 
 ## Maintainer
 
-[Suvodeep Sinha](https://github.com/Suvoo)
+[Suvodeep Sinha](https://github.com/Suvoo) 😒😒
 
 
 
