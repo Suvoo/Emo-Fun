@@ -31,7 +31,7 @@ Just type the word ```emo``` in front of the sentence you want to emojify.
 <img src = "https://user-images.githubusercontent.com/60261112/140490909-ff789723-3755-41f6-8558-345d55e74f3f.jpeg" width = 250 height =600/>
 </p>
 
-#### About The App
+#### About The Application
 The App has been built using Flutter that runs Python script locally using the Chaquopy plugin in flutter .
 
 ## Contributors
