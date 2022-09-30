@@ -1,6 +1,6 @@
 ## About
 
-Emo-Fun is a bot which emojifies the text you send it. It is easier to understand by an example
+Emo-Fun is a bot which emojifies the text you send it. It is easier to understand with an example.
 
 #### Input :
 ```Hey this is to show my working!! ```
@@ -32,7 +32,7 @@ Just type the word ```emo``` in front of the sentence you want to emojify.
 </p>
 
 #### About The Application
-The App has been built using Flutter that runs Python script locally using the Chaquopy plugin in flutter .
+The App has been built using Flutter that runs Python script locally using the Chaquopy plugin in flutter to emojify the text.
 
 ## Contributors
 
